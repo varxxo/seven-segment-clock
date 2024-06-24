@@ -1,0 +1,134 @@
+*{
+padding: 0;
+margin: 0;
+background-color: black;
+}
+
+.box1{
+    width: 0.1mm;
+    height: 8mm;
+    background-color: black;
+    border: 2px solid white;
+    padding: 4px;
+    /* align-items: center ; */
+    position: absolute ;
+    top: 30%;
+    bottom: 40%;
+    margin-left: 40%;
+    margin-right: 40%;    
+    /* justify-content: center; */
+    
+
+
+  }
+ .box2{
+    width: 0.1mm;
+    height: 8mm;
+    background-color: black;
+    border: 2px solid white;
+    padding: 4px;
+    /* align-items: center ; */
+    position: absolute ;
+    top: 30%;
+    bottom: 40%;
+    margin-left: 45%;
+    margin-right: 40%;      
+  }
+
+  .box2{
+    width: 0.1mm;
+    height: 8mm;
+    background-color: black;
+    border: 2px solid white;
+    padding: 4px;
+    /* align-items: center ; */
+    position: absolute ;
+    top: 30%;
+    bottom: 40%;
+    margin-left: 45%;
+    margin-right: 40%;      
+  }
+
+  .box3{
+    width: 0.1mm;
+    height: 8mm;
+    background-color: black;
+    border: 2px solid white;
+    padding: 4px;
+    /* align-items: center ; */
+    position: absolute ;
+    top: 23.4%;
+    bottom: 40%;
+    margin-left: 42.7%;
+    margin-right:30%;   
+    rotate:90deg;   
+  }
+
+  .box4{
+    width: 0.1mm;
+    height: 8mm;
+    background-color: black;
+    border: 2px solid white;
+    padding: 4px;
+    /* align-items: center ; */
+    position: absolute ;
+    top: 37%;
+    bottom: 20%;
+    margin-left: 42.7%;
+    margin-right: 30%; 
+    rotate: 90deg;      
+  }
+  .box5{
+    width: 0.1mm;
+    height: 8mm;
+    background-color: black;
+    border: 2px solid white;
+    padding: 4px;
+    /* align-items: center ; */
+    position: absolute ;
+    top: 43.5%;
+    bottom: 40%;
+    margin-left: 45%;
+    margin-right: 40%;      
+  }
+  .box6{
+    width: 0.1mm;
+    height: 8mm;
+    background-color: black;
+    border: 2px solid white;
+    padding: 4px;
+    /* align-items: center ; */
+    position: absolute ;
+    top: 43.2%;
+    bottom: 40%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+  .box7{
+    width: 0.1mm;
+    height: 8mm;
+    background-color: black;
+    border: 2px solid white;
+    padding: 4px;
+    /* align-items: center ; */
+    position: fixed;
+    top: 50%;
+    bottom: 20%;
+    margin-left: 42.7%;
+    margin-right: 30%; 
+    rotate: 90deg;      
+  }
+
+
+ .clock{
+    /* margin: 70% 10% ; */
+    margin-top: 70px;
+    margin-bottom: 10px;
+    margin-left: 10%;
+    margin-right: 70%;
+    padding: 2px;
+    flex-direction: column;
+/* align-items: center; */
+    
+ }
